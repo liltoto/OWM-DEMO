@@ -1,0 +1,13 @@
+.widgetForecastContainer {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  justify-items: center;
+  margin: 15px 0;
+  color: rgba(232, 229, 229, 0.5);
+}
+
+.widgetForecastContainer > div {
+  display: grid;
+  align-content: center;
+  justify-items: center;
+}

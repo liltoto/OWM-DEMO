@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+body {
+  background-color: #343434;
+  font-family: "Montserrat", sans-serif;
+}
+
+.center {
+  display: grid;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}

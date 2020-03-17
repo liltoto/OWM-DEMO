@@ -1,0 +1,12 @@
+.errorContainer {
+  color: rgba(232, 229, 229, 0.5);
+}
+
+.errorContainer > h1{
+  font-size: 75px;
+  text-align: center;
+}
+
+.errorContainer > p{
+  font-size: 45px;
+}
